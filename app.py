@@ -17,32 +17,32 @@ if name:
         st.success(f"Boom!!! The sum is: {result}")
 
         if result == 0:
-            st.info(f"Therefor {name}, SE LA CHUPAS AL PORTERO")
+            st.info(f"Therefore {name}, SE LA CHUPAS AL PORTERO")
         elif result == 1:
-            st.info(f"Therefor {name}, TE LA COMES DE DESAYUNO")
+            st.info(f"Therefore {name}, TE LA COMES DE DESAYUNO")
         elif result == 2:
-            st.info(f"Therefor {name}, TE DOY POR CULO Y TE DA TOSS")
+            st.info(f"Therefore {name}, TE DOY POR CULO Y TE DA TOSS")
         elif result == 3:
-            st.info(f"Therefor {name}, TE DOY POR CULO OTRA VEZ")
+            st.info(f"Therefore {name}, TE DOY POR CULO OTRA VEZ")
         elif result == 4:
-            st.info(f"Therefor {name}, PARA TU CULO MI APARATO")
+            st.info(f"Therefore {name}, PARA TU CULO MI APARATO")
         elif result == 5:
-            st.info(f"Therefor {name}, POR EL CULO TE LA HINCO")
+            st.info(f"Therefore {name}, POR EL CULO TE LA HINCO")
         elif result == 6:
-            st.info(f"Therefor {name}, MENOS 1 Y POR EL CULO TE LA HINCO")
+            st.info(f"Therefore {name}, MENOS 1 Y POR EL CULO TE LA HINCO")
         elif result == 7:
-            st.info(f"Therefor {name}, EN EL CULO SE TE METE")
+            st.info(f"Therefore {name}, EN EL CULO SE TE METE")
         elif result == 8:
-            st.info(f"Therefor {name}, POR EL CULO TE LA ENTOCHO")
+            st.info(f"Therefore {name}, POR EL CULO TE LA ENTOCHO")
         elif result == 9:
-            st.info(f"Therefor {name}, EN EL CULO SE TE MUEVE")
+            st.info(f"Therefore {name}, EN EL CULO SE TE MUEVE")
         elif result == 10:
-            st.info(f"Therefor {name}, TE DOY POR EL CULO Y NO ME VEZ")
+            st.info(f"Therefore {name}, TE DOY POR EL CULO Y NO ME VEZ")
         elif result == 11:
-            st.info(f"Therefor {name}, CHUPALA ENTONCES")
+            st.info(f"Therefore {name}, CHUPALA ENTONCES")
         elif result == 12:
-            st.info(f"Therefor {name}, EN EL CULO TE GUSTA EL ROCE")
+            st.info(f"Therefore {name}, EN EL CULO TE GUSTA EL ROCE")
         elif result == 13:
-            st.info(f"Therefor {name}, AGARRAMELA QUE ME CRECE")
+            st.info(f"Therefore {name}, AGARRAMELA QUE ME CRECE")
         elif result > 13:
             st.info(f"NO ES 5 PERO... {name}, POR EL CULO TE LA HINCO")
