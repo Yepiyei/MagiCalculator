@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title(“Test the Magic Calculator")
+st.title("Test the Magic Calculator")
 
 # Ask for user's name
 name = st.text_input("What is your name?")
