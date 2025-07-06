@@ -10,7 +10,7 @@ if name:
     st.write(f"Hello, {name}! Let's do some simple math")
 
     num_1 = st.number_input("Give me a (ONE DIGIT) number", step=1)
-    num_2 = st.number_input(f"What number do you want to add to {num_1}?", step=1)
+    num_2 = st.number_input(f"What (ONE DIGIT) number do you want to add to {num_1}?", step=1)
 
     if st.button("Calculate Sum"):
         result = int(num_1) + int(num_2)
